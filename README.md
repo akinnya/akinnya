@@ -17,6 +17,10 @@ I'm a backend developer from China 🇨🇳, currently working with Java technol
 
 Nice to meet you!
 
+<div align="center">
+  <img src="image.jpeg" alt="展示图片" width="100%" />
+</div>
+
 ## Languages and Tools
 
 <div align="center">  
