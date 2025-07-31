@@ -25,6 +25,26 @@ Nice to meet you!
 <br/>  
 
 
+
+## Github Stats
+
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=akinnya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinnya&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>
+
+## Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=akinnya)
+
+## Contribution Activity
+
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=akinnya&&style=flat-square)
+
+
 ## Languages and Tools
 <table><tr><td valign="top" width="33%">
 
@@ -54,21 +74,3 @@ Nice to meet you!
 
 </td></tr></table>
 
-
-## Github Stats
-
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=akinnya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinnya&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>
-
-## Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=akinnya)
-
-## Contribution Activity
-
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=akinnya&&style=flat-square)
