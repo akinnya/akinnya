@@ -19,7 +19,7 @@ Nice to meet you!
 
 ## Languages and Tools
 
-<div align="center">  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
@@ -53,10 +53,6 @@ Nice to meet you!
 
 ## Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akinnya/akinnya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akinnya/akinnya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akinnya/akinnya/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=akinnya&&style=flat-square)
