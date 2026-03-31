@@ -2,6 +2,8 @@
 
 <p align="center">
   Backend Engineer · Java Developer · Based in China
+  </p>
+  <p align="center">
   https://akili.us.ci/
 </p>
 
